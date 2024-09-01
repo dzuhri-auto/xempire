@@ -1,4 +1,4 @@
-# MAJOR AUTO
+# X-EMPIRE AUTO
 
 ## Persiapan
 
@@ -8,7 +8,7 @@ Pastikan kamu sudah install:
 
 ## Cara Ambil Query ID
 
-<https://irhamdz.notion.site/Cara-ambil-session-atau-query-id-c74ba0ccb66e45a6a9ef3182638a736f>
+<https://irhamdz.notion.site/Tutorial-ambil-Query-ID-f415621d4a9843d2a7a9ad2cfb9abeb4?pvs=4>
 
 ## Request API KEY
 
@@ -19,13 +19,13 @@ Kamu bisa request API KEY di private channel telegram dzuhri-auto. (limited)
 git clone ke pc / vps kamu:
 
 ```shell
-git clone https://github.com/dzuhri-auto/major.git
+git clone https://github.com/dzuhri-auto/xempire.git
 ```
 
 Masuk ke folder nya
 
 ```shell
-cd major
+cd xempire
 ```
 
 Lalu bisa pake command dibawah untuk otomatis install:
